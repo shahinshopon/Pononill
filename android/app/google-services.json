@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638431121641",
+    "project_id": "poononil-8abfc",
+    "storage_bucket": "poononil-8abfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638431121641:android:5fa077579071ff5c146078",
+        "android_client_info": {
+          "package_name": "com.app.poonolil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638431121641-10co7ghf7frm3s5k8gpoob5qshg9ts7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.poonolil",
+            "certificate_hash": "3efa15a2ae134dc9a47cc83f9e625323fb0f7d20"
+          }
+        },
+        {
+          "client_id": "638431121641-ma29d2tin0nk5fcm5mvhc4r4patqkhok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7zbe7LJwtpu4jTNRwJSUc1P2Nhw0Kyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638431121641-ma29d2tin0nk5fcm5mvhc4r4patqkhok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
